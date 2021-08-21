@@ -1,1 +1,1 @@
-# SimpleWebApp-WeekendProject
+# SimpleGrailApp-WeekendProject
